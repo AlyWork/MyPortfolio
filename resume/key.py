@@ -1,1 +1,0 @@
-SecretKey = 'django-insecure-mtyb$a+h5ux7!la*^!mc9abbxb56c(4jjf=lsa3@@*k+5sdn@!'
